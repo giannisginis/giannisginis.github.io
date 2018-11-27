@@ -1,17 +1,16 @@
-html {
-   min-height: 100vh;
- }
 @viewport {
   width: device-width ;
   zoom: 1.0 ;
 }
-body{
+@media (max-width: 1024px)
+body, html{
   margin: 0;
   padding: 0;
   background: url(bg.jpg) no-repeat;
   background-size: cover;
   width: device-width;
-  height: 100%;
+  overflow: auto!important;
+  max-height: 100% !important;
 }
 .box{
   width: 450px;
