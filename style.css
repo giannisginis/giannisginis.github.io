@@ -3,7 +3,8 @@ body{
   padding: 0;
   background: url(bg.jpg) no-repeat;
   background-size: cover;
-  width: 100%
+  width: 100%;
+  height: auto;
 }
 .box{
   width: 450px;
