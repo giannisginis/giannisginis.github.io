@@ -10,7 +10,6 @@ body, html{
   background: url(bg.jpg) no-repeat;
   background-size: cover;
   width: device-width;
-  overflow: auto!important;
   max-height: 100% !important;
 }
 .box{
