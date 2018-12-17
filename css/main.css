@@ -2560,9 +2560,9 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 .contact-info .map {
     width: 650px;
     height: 650px; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+   /* @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .map-area #googleMap {
-        height: 500px; } }
+        height: 500px; } }*/
 
 /* contact form */
 #contact form {
