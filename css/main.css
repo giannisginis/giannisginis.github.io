@@ -2558,8 +2558,8 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   z-index: 2;
 }
 .contact-info .map {
-    width: 350px;
-    height: 350px; }
+    width: 650px;
+    height: 650px; }
     @media only screen and (min-width: 200px) and (max-width: 650px) {
       .contact-info .map #map-canvas {
         height: 50px; } }
