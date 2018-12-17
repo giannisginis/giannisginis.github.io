@@ -2561,7 +2561,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     width: 100%;
     height: 650px; }
    @media only screen and (min-width: 350px) and (max-width: 650px) {
-      .map #map-canvas {
+      .contact-info .map #map-canvas {
         height: 250px; } }
 
 /* contact form */
